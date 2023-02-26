@@ -6,6 +6,7 @@
 ### 二分查找
 
 二分查找运用的前提
+
   1.数组有序
   2.数组没有重复元素
 
@@ -53,13 +54,14 @@
   ```
 
 参考例题
-[二分查找](https://leetcode.cn/problems/binary-search/)
+
+1.[二分查找](https://leetcode.cn/problems/binary-search/)
 [参考代码](https://github.com/huawg2000/cpp/blob/leetcode/src/704%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.cpp)
 
-[搜索插入位置](https://leetcode.cn/problems/search-insert-position/)
+2.[搜索插入位置](https://leetcode.cn/problems/search-insert-position/)
 
-[在排序数组中查找元素的第一个和最后一个位置](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/)
+3.[在排序数组中查找元素的第一个和最后一个位置](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/)
 
-[x的平方根](https://leetcode.cn/problems/sqrtx/)
+4.[x的平方根](https://leetcode.cn/problems/sqrtx/)
 
-[有效的完全平方数](https://leetcode.cn/problems/valid-perfect-square/)
+5.[有效的完全平方数](https://leetcode.cn/problems/valid-perfect-square/)
