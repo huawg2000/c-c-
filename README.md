@@ -8,13 +8,16 @@
 二分查找运用的前提
 
   1.数组有序
+
   2.数组没有重复元素
 
 **边界条件**
+
   1.左闭右闭，此时left==right有意义
   ```cpp
   while(left <= right)
   ```
+
   2.因为当前这个nums[i]必定不是target，所以在后续二分时要移动一个位置
   >     
   ```cpp
@@ -32,6 +35,7 @@
   ```
 
 参考代码
+
   >
   ```cpp
     int search(vector<int>& nums, int target) {
