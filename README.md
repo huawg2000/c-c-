@@ -13,12 +13,12 @@
 
 **边界条件**
 
-  1.左闭右闭，此时left==right有意义
+  1.本文只选讲左闭右闭（好理解，前后都要移位），此时left==right有意义
   ```cpp
   while(left <= right)
   ```
 
-  2.因为当前这个nums[i]必定不是target，所以在后续二分时要移动一个位置
+  2.因为当前这个nums[i]必定不是target，所以在后续二分时要移位
   >     
   ```cpp
     if(nums[i] < target) {
@@ -53,7 +53,7 @@
                 i = left + (right - left) / 2;
             }
         }
-        return -1;
+        return -1; //找不到返回-1
     }
   ```
 
