@@ -8,17 +8,20 @@
   1.while(left <= right)
   2.
   >     
+  ```cpp
     if(nums[i] < target) {
         left = i + 1;
         i = left + (right - left) / 2;
     }
   >     
+  ```cpp
     if(nums[i] > target) {
         right = i - 1; //在当前位置处移位
         i = left + (right - left) / 2;
     }
 参考代码
 >
+```cpp
     int search(vector<int>& nums, int target) {
         int i = (nums.size()-1)/2;
         int left = 0;
