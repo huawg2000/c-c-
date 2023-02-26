@@ -60,7 +60,7 @@
 参考例题
 
 1.[二分查找](https://leetcode.cn/problems/binary-search/)
-[参考代码](https://github.com/huawg2000/cpp/blob/leetcode/src/704%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.cpp)
+本文[参考代码](https://github.com/huawg2000/cpp/blob/leetcode/src/704%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.cpp)
 
 2.[搜索插入位置](https://leetcode.cn/problems/search-insert-position/)
 
