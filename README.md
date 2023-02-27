@@ -60,12 +60,13 @@
 参考例题
 
 1.[二分查找](https://leetcode.cn/problems/binary-search/)
-本文[参考代码](https://github.com/huawg2000/cpp/blob/leetcode/src/704%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.cpp)
+本文[参考代码](leetcode//../src//数组/二分查找/704二分查找.cpp)
 
 2.[搜索插入位置](https://leetcode.cn/problems/search-insert-position/)
-本文[参考代码](https://github.com/huawg2000/cpp/blob/leetcode/src/34%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E5%85%83%E7%B4%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%92%8C%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E4%BD%8D%E7%BD%AE.cpp)
+本文[参考代码](leetcode//../src/数组/二分查找/35搜索插入位置.cpp)
 
 3.[在排序数组中查找元素的第一个和最后一个位置](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/)
+本文[参考代码](leetcode//../src/数组/二分查找//34在排序数组中查找元素的第一个和最后一个位置.cpp)
 
 4.[x的平方根](https://leetcode.cn/problems/sqrtx/)
 
