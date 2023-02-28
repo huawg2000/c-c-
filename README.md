@@ -72,3 +72,4 @@
 本文[参考代码](leetcode//../src/数组/二分查找/69x的平方根.cpp)
 
 5.[有效的完全平方数](https://leetcode.cn/problems/valid-perfect-square/)
+本文[参考代码](leetcode//../src/数组/二分查找/367有效的完全平方数.cpp)
