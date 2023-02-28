@@ -10,9 +10,9 @@ public:
         int right = num / 2;
         while(left <= right) {
             int mid = left + (right - left) / 2;
-            if(mid)if(num / mid == mid) {
-                if(mid * mid == num)return true;
-                else break;
+            if(mid)if(num / mid == mid) { //此时找到的数已经是最接近完全平方数的数/小数，因精度原因这里显示相等，因此需要进一步判断
+                if(mid * mid == num)return true; //不是精度的原因导致的相等
+                else break; //是精度的原因导致的相等
             }
             else if(num / mid > mid)left = mid + 1;
             else if(num / mid < mid)right = mid - 1;
