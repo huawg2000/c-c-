@@ -69,5 +69,6 @@
 本文[参考代码](leetcode//../src/数组/二分查找//34在排序数组中查找元素的第一个和最后一个位置.cpp)
 
 4.[x的平方根](https://leetcode.cn/problems/sqrtx/)
+本文[参考代码](leetcode//../src/数组/二分查找/69x的平方根.cpp)
 
 5.[有效的完全平方数](https://leetcode.cn/problems/valid-perfect-square/)
